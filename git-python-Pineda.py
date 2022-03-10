@@ -4,3 +4,8 @@ print ("November 28 2001");
 print ("Marinduque State College");
 print ("BS Information Technology");
 print ("2nd Year, Section B");
+print ("Watching Movies");
+print ("Listening Music");
+print ("Reading");
+print ("Playing Online Games");
+print ("Sleeping");
